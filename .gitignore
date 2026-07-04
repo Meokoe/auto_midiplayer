@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 打包文件
+*.spec
+*.exe
+*.manifest
+*.pkg
+*.pyz
+
+# 其他
+.DS_Store
+Thumbs.db
+*.log
