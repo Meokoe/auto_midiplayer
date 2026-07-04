@@ -1,4 +1,4 @@
-# MIDI 自动演奏
+# MIDI autoplayer
 
 Import MIDI files, map notes to 21 keys for in-game instruments, auto-play via background key simulation.
 
